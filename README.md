@@ -42,3 +42,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 35. [Correcciones automáticas con fixup y autosquash](temas/35-fixup-autosquash.md)
 36. [Submódulos (lo básico)](temas/36-submodulos.md)
 37. [Archivos grandes con Git LFS](temas/37-git-lfs.md)
+38. [Firmar commits con SSH](temas/38-firmar-commits.md)
