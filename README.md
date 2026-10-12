@@ -16,3 +16,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 9. [Descartar cambios en un archivo](temas/09-descartar-cambios.md)
 10. [Sacar archivos del staging](temas/10-sacar-de-staging.md)
 11. [Ramas: crear, cambiar y borrar](temas/11-ramas-basico.md)
+12. [Fusionar ramas](temas/12-fusionar-ramas.md)
