@@ -54,3 +54,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 47. [Finales de línea (LF y CRLF)](temas/47-finales-de-linea.md)
 48. [Más usos de .gitattributes](temas/48-gitattributes.md)
 49. [HEAD separado (detached HEAD)](temas/49-head-separado.md)
+50. [HEAD~ y HEAD^: cómo moverse entre commits](temas/50-tilde-y-circunflejo.md)
