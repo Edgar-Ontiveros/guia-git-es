@@ -11,3 +11,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 4. [Preparar cambios por partes](temas/04-add-por-partes.md)
 5. [Escribir buenos mensajes de commit](temas/05-mensajes-de-commit.md)
 6. [Corregir el último commit](temas/06-enmendar-commit.md)
+7. [Deshacer el último commit](temas/07-deshacer-ultimo-commit.md)
