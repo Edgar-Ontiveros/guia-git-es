@@ -70,3 +70,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 63. [Commits vacíos](temas/63-commit-vacio.md)
 64. [Stash: trucos útiles](temas/64-stash-avanzado.md)
 65. [Encontrar el ancestro común](temas/65-merge-base.md)
+66. [Qué commits faltan por llevar a otra rama](temas/66-git-cherry.md)
