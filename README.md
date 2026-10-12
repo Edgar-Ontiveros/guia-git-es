@@ -72,3 +72,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 65. [Encontrar el ancestro común](temas/65-merge-base.md)
 66. [Qué commits faltan por llevar a otra rama](temas/66-git-cherry.md)
 67. [Reutilizar resoluciones de conflictos (rerere)](temas/67-rerere.md)
+68. [Comparar dos versiones de una rama](temas/68-range-diff.md)
