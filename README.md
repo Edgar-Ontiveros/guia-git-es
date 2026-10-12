@@ -76,3 +76,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 69. [-X ours, -X theirs y -s ours](temas/69-estrategias-de-merge.md)
 70. [Trabajar solo con una carpeta (sparse-checkout)](temas/70-sparse-checkout.md)
 71. [Clones parciales y superficiales](temas/71-clones-parciales.md)
+72. [Exportar el proyecto sin .git](temas/72-git-archive.md)
