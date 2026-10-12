@@ -14,3 +14,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 7. [Deshacer el último commit](temas/07-deshacer-ultimo-commit.md)
 8. [Revertir un commit publicado](temas/08-revertir-commit.md)
 9. [Descartar cambios en un archivo](temas/09-descartar-cambios.md)
+10. [Sacar archivos del staging](temas/10-sacar-de-staging.md)
