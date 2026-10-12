@@ -95,3 +95,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 88. [Permisos del token y OIDC en Actions](temas/88-actions-permisos-oidc.md)
 89. [Mantener dependencias al día con Dependabot](temas/89-dependabot.md)
 90. [Proteger la rama principal](temas/90-proteger-ramas.md)
+91. [Responsables del código con CODEOWNERS](temas/91-codeowners.md)
