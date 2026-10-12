@@ -65,3 +65,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 58. [Nombrar versiones con git describe](temas/58-git-describe.md)
 59. [Diferencias por palabra y código movido](temas/59-diff-por-palabras.md)
 60. [Ver el diff mientras escribes el commit](temas/60-commit-verbose.md)
+61. [Descartar o sacar cambios por partes](temas/61-descartar-por-partes.md)
