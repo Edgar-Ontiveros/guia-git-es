@@ -28,3 +28,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 21. [Aplicar un commit específico](temas/21-cherry-pick.md)
 22. [Etiquetas y versiones](temas/22-etiquetas.md)
 23. [Trabajar con remotos](temas/23-remotos.md)
+24. [fetch vs pull](temas/24-fetch-vs-pull.md)
