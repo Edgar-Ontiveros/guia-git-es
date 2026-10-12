@@ -46,3 +46,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 39. [Hooks de Git](temas/39-hooks.md)
 40. [Pull requests desde la terminal con GitHub CLI](temas/40-github-cli-prs.md)
 41. [Cerrar issues desde un commit o PR](temas/41-cerrar-issues-con-commits.md)
+42. [Flujo de trabajo con ramas y PRs (GitHub flow)](temas/42-github-flow.md)
