@@ -26,3 +26,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 19. [Encontrar el commit que rompió algo](temas/19-bisect.md)
 20. [Recuperar commits "perdidos"](temas/20-reflog.md)
 21. [Aplicar un commit específico](temas/21-cherry-pick.md)
+22. [Etiquetas y versiones](temas/22-etiquetas.md)
