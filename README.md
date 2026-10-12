@@ -20,3 +20,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 13. [Rebase básico](temas/13-rebase-basico.md)
 14. [Resolver conflictos](temas/14-resolver-conflictos.md)
 15. [Guardar trabajo temporal con stash](temas/15-stash.md)
+16. [Ver el historial de forma legible](temas/16-historial-legible.md)
