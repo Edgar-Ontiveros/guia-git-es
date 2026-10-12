@@ -10,3 +10,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 3. [Ver el estado y las diferencias](temas/03-estado-y-diferencias.md)
 4. [Preparar cambios por partes](temas/04-add-por-partes.md)
 5. [Escribir buenos mensajes de commit](temas/05-mensajes-de-commit.md)
+6. [Corregir el último commit](temas/06-enmendar-commit.md)
