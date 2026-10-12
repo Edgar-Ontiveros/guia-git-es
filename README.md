@@ -58,3 +58,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 51. [Ramas de seguimiento (upstream)](temas/51-ramas-de-seguimiento.md)
 52. [Limpiar ramas viejas](temas/52-limpiar-ramas.md)
 53. [Renombrar una rama](temas/53-renombrar-rama.md)
+54. [Mover y renombrar archivos](temas/54-mover-archivos.md)
