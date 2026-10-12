@@ -79,3 +79,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 72. [Exportar el proyecto sin .git](temas/72-git-archive.md)
 73. [Mover un repositorio sin red con git bundle](temas/73-git-bundle.md)
 74. [Notas en commits](temas/74-git-notes.md)
+75. [Mantenimiento del repositorio](temas/75-mantenimiento.md)
