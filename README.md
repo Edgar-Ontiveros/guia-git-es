@@ -83,3 +83,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 76. [Quitar un secreto del historial](temas/76-quitar-secretos.md)
 77. [Datos del repo para scripts con rev-parse](temas/77-rev-parse.md)
 78. [Fecha de autor y fecha de commit](temas/78-fechas-de-commit.md)
+79. [Corregir el autor de commits](temas/79-corregir-autor.md)
