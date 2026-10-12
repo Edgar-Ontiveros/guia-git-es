@@ -63,3 +63,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 56. [Personalizar la salida de git log](temas/56-formato-log.md)
 57. [Resumen de commits por autor](temas/57-shortlog.md)
 58. [Nombrar versiones con git describe](temas/58-git-describe.md)
+59. [Diferencias por palabra y código movido](temas/59-diff-por-palabras.md)
