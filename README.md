@@ -84,3 +84,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 77. [Datos del repo para scripts con rev-parse](temas/77-rev-parse.md)
 78. [Fecha de autor y fecha de commit](temas/78-fechas-de-commit.md)
 79. [Corregir el autor de commits](temas/79-corregir-autor.md)
+80. [Unificar autores con .mailmap](temas/80-mailmap.md)
