@@ -19,3 +19,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 12. [Fusionar ramas](temas/12-fusionar-ramas.md)
 13. [Rebase básico](temas/13-rebase-basico.md)
 14. [Resolver conflictos](temas/14-resolver-conflictos.md)
+15. [Guardar trabajo temporal con stash](temas/15-stash.md)
