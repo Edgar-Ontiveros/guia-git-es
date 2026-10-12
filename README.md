@@ -68,3 +68,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 61. [Descartar o sacar cambios por partes](temas/61-descartar-por-partes.md)
 62. [Ver archivos nuevos en git diff](temas/62-add-intencion.md)
 63. [Commits vacíos](temas/63-commit-vacio.md)
+64. [Stash: trucos útiles](temas/64-stash-avanzado.md)
