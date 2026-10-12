@@ -22,3 +22,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 15. [Guardar trabajo temporal con stash](temas/15-stash.md)
 16. [Ver el historial de forma legible](temas/16-historial-legible.md)
 17. [Buscar en el historial](temas/17-buscar-en-historial.md)
+18. [Saber quién cambió una línea](temas/18-blame.md)
