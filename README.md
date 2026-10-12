@@ -18,3 +18,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 11. [Ramas: crear, cambiar y borrar](temas/11-ramas-basico.md)
 12. [Fusionar ramas](temas/12-fusionar-ramas.md)
 13. [Rebase básico](temas/13-rebase-basico.md)
+14. [Resolver conflictos](temas/14-resolver-conflictos.md)
