@@ -5,3 +5,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 
 ## Temas
 
+1. [Configurar tu identidad](temas/01-configurar-identidad.md)
