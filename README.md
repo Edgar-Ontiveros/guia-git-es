@@ -40,3 +40,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 33. [Trabajar en dos ramas a la vez con worktrees](temas/33-worktrees.md)
 34. [Ordenar commits con rebase interactivo](temas/34-rebase-interactivo.md)
 35. [Correcciones automáticas con fixup y autosquash](temas/35-fixup-autosquash.md)
+36. [Submódulos (lo básico)](temas/36-submodulos.md)
