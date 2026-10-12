@@ -81,3 +81,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 74. [Notas en commits](temas/74-git-notes.md)
 75. [Mantenimiento del repositorio](temas/75-mantenimiento.md)
 76. [Quitar un secreto del historial](temas/76-quitar-secretos.md)
+77. [Datos del repo para scripts con rev-parse](temas/77-rev-parse.md)
