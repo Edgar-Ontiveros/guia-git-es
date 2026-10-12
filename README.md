@@ -52,3 +52,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 45. [Configuración por carpeta con includeIf](temas/45-include-if.md)
 46. [Guardar credenciales HTTPS](temas/46-credenciales-https.md)
 47. [Finales de línea (LF y CRLF)](temas/47-finales-de-linea.md)
+48. [Más usos de .gitattributes](temas/48-gitattributes.md)
