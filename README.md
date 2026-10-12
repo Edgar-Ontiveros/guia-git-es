@@ -48,3 +48,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 41. [Cerrar issues desde un commit o PR](temas/41-cerrar-issues-con-commits.md)
 42. [Flujo de trabajo con ramas y PRs (GitHub flow)](temas/42-github-flow.md)
 43. [Conectarte a GitHub por SSH](temas/43-ssh-github.md)
+44. [Dos cuentas de GitHub en el mismo equipo](temas/44-varias-cuentas.md)
