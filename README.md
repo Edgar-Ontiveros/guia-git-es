@@ -43,3 +43,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 36. [Submódulos (lo básico)](temas/36-submodulos.md)
 37. [Archivos grandes con Git LFS](temas/37-git-lfs.md)
 38. [Firmar commits con SSH](temas/38-firmar-commits.md)
+39. [Hooks de Git](temas/39-hooks.md)
