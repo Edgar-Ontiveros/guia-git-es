@@ -61,3 +61,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 54. [Mover y renombrar archivos](temas/54-mover-archivos.md)
 55. [Historial de una función con log -L](temas/55-historial-de-una-funcion.md)
 56. [Personalizar la salida de git log](temas/56-formato-log.md)
+57. [Resumen de commits por autor](temas/57-shortlog.md)
