@@ -96,3 +96,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 89. [Mantener dependencias al día con Dependabot](temas/89-dependabot.md)
 90. [Proteger la rama principal](temas/90-proteger-ramas.md)
 91. [Responsables del código con CODEOWNERS](temas/91-codeowners.md)
+92. [Formularios para issues](temas/92-plantillas-de-issues.md)
