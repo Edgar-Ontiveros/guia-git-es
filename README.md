@@ -29,3 +29,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 22. [Etiquetas y versiones](temas/22-etiquetas.md)
 23. [Trabajar con remotos](temas/23-remotos.md)
 24. [fetch vs pull](temas/24-fetch-vs-pull.md)
+25. [pull con rebase](temas/25-pull-rebase.md)
