@@ -38,3 +38,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 31. [Ver un archivo de otra rama o commit](temas/31-ver-archivo-en-otra-rama.md)
 32. [Comparar ramas](temas/32-comparar-ramas.md)
 33. [Trabajar en dos ramas a la vez con worktrees](temas/33-worktrees.md)
+34. [Ordenar commits con rebase interactivo](temas/34-rebase-interactivo.md)
