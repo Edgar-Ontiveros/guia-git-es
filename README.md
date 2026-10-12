@@ -86,3 +86,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 79. [Corregir el autor de commits](temas/79-corregir-autor.md)
 80. [Unificar autores con .mailmap](temas/80-mailmap.md)
 81. [switch y restore en lugar de checkout](temas/81-switch-restore-checkout.md)
+82. [Ver qué hay en un commit](temas/82-git-show.md)
