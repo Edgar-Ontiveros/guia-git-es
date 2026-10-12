@@ -56,3 +56,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 49. [HEAD separado (detached HEAD)](temas/49-head-separado.md)
 50. [HEAD~ y HEAD^: cómo moverse entre commits](temas/50-tilde-y-circunflejo.md)
 51. [Ramas de seguimiento (upstream)](temas/51-ramas-de-seguimiento.md)
+52. [Limpiar ramas viejas](temas/52-limpiar-ramas.md)
