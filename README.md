@@ -53,3 +53,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 46. [Guardar credenciales HTTPS](temas/46-credenciales-https.md)
 47. [Finales de línea (LF y CRLF)](temas/47-finales-de-linea.md)
 48. [Más usos de .gitattributes](temas/48-gitattributes.md)
+49. [HEAD separado (detached HEAD)](temas/49-head-separado.md)
