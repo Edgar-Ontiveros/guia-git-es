@@ -31,3 +31,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 24. [fetch vs pull](temas/24-fetch-vs-pull.md)
 25. [pull con rebase](temas/25-pull-rebase.md)
 26. [Empujar con seguridad](temas/26-force-with-lease.md)
+27. [Ignorar archivos con .gitignore](temas/27-gitignore.md)
