@@ -97,3 +97,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 90. [Proteger la rama principal](temas/90-proteger-ramas.md)
 91. [Responsables del código con CODEOWNERS](temas/91-codeowners.md)
 92. [Formularios para issues](temas/92-plantillas-de-issues.md)
+93. [Plantilla de pull request](temas/93-plantilla-de-pr.md)
