@@ -92,3 +92,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 85. [Acelerar workflows con caché](temas/85-actions-cache.md)
 86. [Secretos y variables en GitHub Actions](temas/86-actions-secretos.md)
 87. [Cuándo se ejecuta un workflow](temas/87-actions-disparadores.md)
+88. [Permisos del token y OIDC en Actions](temas/88-actions-permisos-oidc.md)
