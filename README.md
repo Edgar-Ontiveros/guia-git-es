@@ -74,3 +74,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 67. [Reutilizar resoluciones de conflictos (rerere)](temas/67-rerere.md)
 68. [Comparar dos versiones de una rama](temas/68-range-diff.md)
 69. [-X ours, -X theirs y -s ours](temas/69-estrategias-de-merge.md)
+70. [Trabajar solo con una carpeta (sparse-checkout)](temas/70-sparse-checkout.md)
