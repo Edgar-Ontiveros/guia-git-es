@@ -35,3 +35,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 28. [Dejar de rastrear un archivo ya versionado](temas/28-dejar-de-rastrear.md)
 29. [Alias útiles](temas/29-alias.md)
 30. [Limpiar archivos no rastreados](temas/30-limpiar-no-rastreados.md)
+31. [Ver un archivo de otra rama o commit](temas/31-ver-archivo-en-otra-rama.md)
