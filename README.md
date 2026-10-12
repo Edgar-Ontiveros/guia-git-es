@@ -44,3 +44,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 37. [Archivos grandes con Git LFS](temas/37-git-lfs.md)
 38. [Firmar commits con SSH](temas/38-firmar-commits.md)
 39. [Hooks de Git](temas/39-hooks.md)
+40. [Pull requests desde la terminal con GitHub CLI](temas/40-github-cli-prs.md)
