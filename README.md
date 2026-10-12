@@ -23,3 +23,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 16. [Ver el historial de forma legible](temas/16-historial-legible.md)
 17. [Buscar en el historial](temas/17-buscar-en-historial.md)
 18. [Saber quién cambió una línea](temas/18-blame.md)
+19. [Encontrar el commit que rompió algo](temas/19-bisect.md)
