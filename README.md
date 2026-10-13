@@ -98,3 +98,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 91. [Responsables del código con CODEOWNERS](temas/91-codeowners.md)
 92. [Formularios para issues](temas/92-plantillas-de-issues.md)
 93. [Plantilla de pull request](temas/93-plantilla-de-pr.md)
+94. [Publicar versiones (releases)](temas/94-releases.md)
