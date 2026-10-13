@@ -105,3 +105,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 98. [Enlaces permanentes a líneas de código](temas/98-enlaces-permanentes.md)
 99. [Sugerir cambios en una revisión de PR](temas/99-sugerencias-en-revisiones.md)
 100. [PRs en borrador, revisores y auto-merge](temas/100-pr-en-borrador.md)
+101. [Búsqueda avanzada en GitHub](temas/101-busqueda-en-github.md)
