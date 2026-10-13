@@ -102,3 +102,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 95. [Publicar un sitio con GitHub Pages](temas/95-github-pages.md)
 96. [Markdown de GitHub: lo más útil](temas/96-markdown-de-github.md)
 97. [Diagramas con Mermaid](temas/97-diagramas-mermaid.md)
+98. [Enlaces permanentes a líneas de código](temas/98-enlaces-permanentes.md)
