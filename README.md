@@ -99,3 +99,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 92. [Formularios para issues](temas/92-plantillas-de-issues.md)
 93. [Plantilla de pull request](temas/93-plantilla-de-pr.md)
 94. [Publicar versiones (releases)](temas/94-releases.md)
+95. [Publicar un sitio con GitHub Pages](temas/95-github-pages.md)
