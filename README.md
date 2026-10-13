@@ -103,3 +103,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 96. [Markdown de GitHub: lo más útil](temas/96-markdown-de-github.md)
 97. [Diagramas con Mermaid](temas/97-diagramas-mermaid.md)
 98. [Enlaces permanentes a líneas de código](temas/98-enlaces-permanentes.md)
+99. [Sugerir cambios en una revisión de PR](temas/99-sugerencias-en-revisiones.md)
