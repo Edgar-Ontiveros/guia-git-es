@@ -111,3 +111,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 104. [Issues y workflows con GitHub CLI](temas/104-gh-issues-y-runs.md)
 105. [README de tu perfil](temas/105-readme-de-perfil.md)
 106. [Elegir una licencia](temas/106-elegir-licencia.md)
+107. [SECURITY.md y protección contra secretos](temas/107-seguridad-del-repo.md)
