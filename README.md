@@ -108,3 +108,4 @@ Cada tema es corto: qué problema resuelve, los comandos y los cuidados que hay 
 101. [Búsqueda avanzada en GitHub](temas/101-busqueda-en-github.md)
 102. [Atajos de teclado en GitHub](temas/102-atajos-de-teclado.md)
 103. [Repositorios con GitHub CLI](temas/103-gh-repos.md)
+104. [Issues y workflows con GitHub CLI](temas/104-gh-issues-y-runs.md)
